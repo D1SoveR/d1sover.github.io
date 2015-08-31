@@ -1,0 +1,3 @@
+[submodule "giveaway-site"]
+	path = giveaway-site
+	url = https://github.com/D1SoveR/giveaway-site.git
